@@ -1,4 +1,4 @@
-#  
+#  instant Macro for Trello for macOS - goal tracking and OCR scanning offers the most advanced Trello for macOS macro, with goal tracking and OCR scanning. Ideal for professionals.
 
 
 
